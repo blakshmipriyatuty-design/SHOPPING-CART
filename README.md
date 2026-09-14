@@ -71,17 +71,20 @@ A modern and user-friendly Shopping Cart application UI designed in Figma. It al
 
 
 
+## Tools Used
+Figma
+
+## Figma Prototype link
 
 
+## Project Structure
+<img width="450" height="500" alt="Project Structure" src="https://github.com/user-attachments/assets/9bb06044-0171-4062-a17b-0dc184489e8c" />
 
-
-
-
-# Developed By
+### Developed By
 Student’s Name: Lakshmi Priya.B
 BCA First year
 
-# License
+### License
 This project is created for educational purposes only.
 **Department:**BCA(IST Year )
 
