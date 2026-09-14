@@ -11,12 +11,19 @@ A modern and user-friendly Shopping Cart application UI designed in Figma. It al
 
 ## Design Highlights
 1.Clean and modern interface
+
 2.Simple navigation
+
 3.Consistent Inter typography
+
 4.Rounded cards and buttons
+
 5.Clear product hierarchy
+
 6.Easy-to-understand icons
+
 7.Consistent color palette
+
 8.Mobile-friendly layout
 
 ## Features
