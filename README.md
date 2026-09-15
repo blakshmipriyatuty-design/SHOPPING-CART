@@ -50,22 +50,22 @@ A modern and user-friendly Shopping Cart application UI designed in Figma. It al
 <img width="150" height="300" alt="Splashscreen" src="https://github.com/user-attachments/assets/0e77a0dd-0124-4e3d-ba66-2f24c3823207" />
      
 2.Wishlist
-
+<img width="440" height="956" alt="Wishlist" src="https://github.com/user-attachments/assets/c229b74e-8f3a-435c-9b76-ef4173ee9467" />
 
 3.Login Screen
-       
-
+ <img width="440" height="956" alt="Login" src="https://github.com/user-attachments/assets/5f51c448-0313-4d25-9da0-435c1f6dbf51" />
+      
 4.Address
+<img width="440" height="956" alt="Address" src="https://github.com/user-attachments/assets/f2ba8afd-3abd-4a3f-bd95-1cefed3463ef" />
        
-
 5.Settings
-
+<img width="440" height="956" alt="Settings" src="https://github.com/user-attachments/assets/72f9223c-3bce-49fb-82b6-600e32fe279e" />
 
 6.Order Summary
-
+<img width="440" height="956" alt="Order summary" src="https://github.com/user-attachments/assets/1df87a83-dcf4-4482-bf72-a0a591f9e193" />
 
 7.Order Details
-
+<img width="440" height="956" alt="Order details" src="https://github.com/user-attachments/assets/d6ebb5bb-02a6-427e-91b4-68a3cc7a976a" />
 
 ## Tools Used
 Figma
