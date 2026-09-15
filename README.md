@@ -45,16 +45,16 @@ A modern and user-friendly Shopping Cart application UI designed in Figma. It al
 
 ## Screensnhots
 1.Splash Screen
-<img width="150" height="300" alt="Splashscreen" src="https://github.com/user-attachments/assets/5f67e2a4-aa06-4f93-9d23-a6ec773dbb5e" />
+        <img width="150" height="300" alt="Splashscreen" src="https://github.com/user-attachments/assets/5f67e2a4-aa06-4f93-9d23-a6ec773dbb5e" />
 
 2.Wishlist
-<img width="150" height="300" alt="Wishlist" src="https://github.com/user-attachments/assets/5f37798d-b34a-4eb5-9eb1-1b380af312f8" />
+        <img width="150" height="300" alt="Wishlist" src="https://github.com/user-attachments/assets/5f37798d-b34a-4eb5-9eb1-1b380af312f8" />
 
 3.Login Screen
-<img width="150" height="300" alt="Login" src="https://github.com/user-attachments/assets/a51fa885-d592-40b6-b7d3-9cf67a34f9e0" />
+        <img width="150" height="300" alt="Login" src="https://github.com/user-attachments/assets/a51fa885-d592-40b6-b7d3-9cf67a34f9e0" />
 
 4.Address
-<img width="150" height="300" alt="Address" src="https://github.com/user-attachments/assets/a40be469-19e3-4b1b-80dd-5fa964ba2af5" />
+        <img width="150" height="300" alt="Address" src="https://github.com/user-attachments/assets/a40be469-19e3-4b1b-80dd-5fa964ba2af5" />
 
 5.Settings
 <img width="150" height="300" alt="Settings" src="https://github.com/user-attachments/assets/dbf0f8be-08fc-46b0-a9f6-faba46b167b9" />
