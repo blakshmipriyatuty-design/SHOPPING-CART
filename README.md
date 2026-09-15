@@ -75,7 +75,7 @@ A modern and user-friendly Shopping Cart application UI designed in Figma. It al
 Figma
 
 ## Figma Prototype link
-
+https://www.figma.com/design/ZHUAWwvpLvKpnRuI9ekE1V/Shopping-cart?node-id=0-1&t=xnqGSlDvavNnKWrj-1
 
 ## Project Structure
 <img width="450" height="500" alt="PS of Shopping app" src="https://github.com/user-attachments/assets/6d51141d-acb2-4aeb-9f88-6282c6a90986" />
