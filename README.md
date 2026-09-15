@@ -44,7 +44,8 @@ A modern and user-friendly Shopping Cart application UI designed in Figma. It al
 6.Order Summary
 7.Order Details
 
-## Screensnhots
+## Screenshots
+
 1.Splash Screen
 <img width="150" height="300" alt="Splashscreen" src="https://github.com/user-attachments/assets/b3f8bbc0-7868-4004-95a3-6ef1fe568efd" />
        
