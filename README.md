@@ -9,6 +9,14 @@ A modern and user-friendly Shopping Cart application UI designed in Figma. It al
 * Create a simple checkout process
 * Make the interface user-friendly
 
+## Features
+* Browse and search products
+* View detailed product information
+* Add and remove items from cart
+* Adjust product quantities
+* Simple checkout and payment
+* Order confirmation and tracking
+
 ## Design Highlights
 1.Clean and modern interface
 
@@ -26,13 +34,6 @@ A modern and user-friendly Shopping Cart application UI designed in Figma. It al
 
 8.Mobile-friendly layout
 
-## Features
-* Browse and search products
-* View detailed product information
-* Add and remove items from cart
-* Adjust product quantities
-* Simple checkout and payment
-* Order confirmation and tracking
 
 ## Screens
 1.Splash Screen
